@@ -13,7 +13,7 @@ const Index = ({ data }) => (
     <Box>
       <Title as="h4" size="small">
         <span className="light"> 
-            Deployment successfully initiatied for kandui.netlify.com...<br /><br />
+            Deployment successfully initiated for kandui.netlify.com...<br /><br />
             Fetching cached dependencies...<br /><br />
             Starting to download cache of 191.7MB...<br /><br />
             Finished downloading cache in 967.642598ms...<br /><br />
