@@ -91,4 +91,8 @@ export default createGlobalStyle`
   p {
     margin-bottom: 2rem;
   }
+  span.light {
+      opacity: .4;
+      font-weight:300;
+  }
 `;
